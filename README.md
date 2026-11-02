@@ -8,7 +8,7 @@ Each guide lives in the [`howto`](howto/) folder and is written to be followed s
  
 | Guide | What it does | Tested on |
 |---|---|---|
-| [Upgrade the CasaOS video player and add a subtitle selector](howto/CasaOS-ArtPlayer-upgrade-guide.md) | Upgrades the built-in ArtPlayer (4.6.2 → 5.x) by patching the built web UI, and adds a **Subtitle** selector to the player settings that picks up `.srt`, `.vtt` and `.ass` files stored next to the video. No source rebuild needed. | CasaOS v0.4.15, Ubuntu |
+| [Upgrade the CasaOS video player and add a subtitle selector](howto/CasaOS-v0.4.1.5-ArtPlayer-upgrade-guide.md) | Upgrades the built-in ArtPlayer (4.6.2 → 5.x) by patching the built web UI, and adds a **Subtitle** selector to the player settings that picks up `.srt`, `.vtt` and `.ass` files stored next to the video. No source rebuild needed. | CasaOS v0.4.15, Ubuntu |
  
 ## Using the guides
  
